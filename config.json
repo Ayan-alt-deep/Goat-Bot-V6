@@ -3,7 +3,7 @@
 	"password": "",
 	"adminOnly": false,
 	"adminBot": [100091369382921],
-	"Nicknname"bby",
+	"Nicknname":"bby",
 	"prefix": "/",
 	"database": {
 		"type": "local",
