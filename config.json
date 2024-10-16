@@ -4,7 +4,7 @@
 	"adminOnly": false,
 	"adminBot": [100091369382921],
 	"Nicknname":"bby",
-	"prefix": "/",
+	"prefix": ".",
 	"database": {
 		"type": "local",
 		"uriMongodb": "",
